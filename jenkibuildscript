@@ -1,7 +1,7 @@
 #!/bin/bash
 ls -al
 pwd
-echo "Running the packer script now..!!"
+echo "Running the packer script"
 echo .
 echo .
 packer build packer.json
